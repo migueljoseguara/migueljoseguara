@@ -8,7 +8,7 @@ I'm *Miguel José*. My passion is applying tools from math, computer science, an
 - Game Development.<br>
 
 ## Projects
-I'm currently working on my personal website, you can check the construction here: (inserir link)
+I'm currently working on my personal website, you can check the construction here: [migueljoseguara-website](https://github.com/migueljoseguara/migueljoseguara-website).
 
 ## Tools
 
